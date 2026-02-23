@@ -21,5 +21,3 @@ def submission_check():
     "PY102001001"
     """
     return "PY1022001019"
-
-print(submission_check())
